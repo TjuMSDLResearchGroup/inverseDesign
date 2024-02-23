@@ -1,2 +1,2 @@
-# inverseDesign
-Code for inverse design of metasurface
+# Code for inverse design of metasurface
+
